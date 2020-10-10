@@ -1,6 +1,9 @@
 ﻿  RayTracing.cpp
 d:\raytracing\raytracing\raytracing\vec3.h(51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 d:\raytracing\raytracing\raytracing\vec3.h(136): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\raytracing\raytracing\raytracing\raytracing.cpp(17): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracing\raytracing\raytracing\raytracing.cpp(10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(23): warning C4305: “参数”: 从“double”到“float”截断
   RayTracing.vcxproj -> D:\RayTracing\RayTracing\Debug\RayTracing.exe
   RayTracing.vcxproj -> D:\RayTracing\RayTracing\Debug\RayTracing.pdb (Full PDB)
