@@ -1,15 +1,14 @@
-﻿  stdafx.cpp
-  RayTracing.cpp
+﻿  RayTracing.cpp
 d:\raytracing\raytracing\raytracing\vec3.h(51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 d:\raytracing\raytracing\raytracing\vec3.h(136): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 d:\raytracing\raytracing\raytracing\sphere.h(18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 d:\raytracing\raytracing\raytracing\sphere.h(25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
 d:\raytracing\raytracing\raytracing\sphere.h(33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
 d:\raytracing\raytracing\raytracing\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\raytracing\raytracing\raytracing\raytracing.cpp(13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\raytracing\raytracing\raytracing\raytracing.cpp(23): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
-d:\raytracing\raytracing\raytracing\raytracing.cpp(34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\raytracing\raytracing\raytracing\raytracing.cpp(35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\raytracing\raytracing\raytracing\raytracing.cpp(35): warning C4305: “参数”: 从“double”到“float”截断
+d:\raytracing\raytracing\raytracing\raytracing.cpp(15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\raytracing\raytracing\raytracing\raytracing.cpp(37): warning C4305: “参数”: 从“double”到“float”截断
   RayTracing.vcxproj -> D:\RayTracing\RayTracing\Debug\RayTracing.exe
   RayTracing.vcxproj -> D:\RayTracing\RayTracing\Debug\RayTracing.pdb (Full PDB)
